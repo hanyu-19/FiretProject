@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.BF_first_section{
+    display: table;
+    width: 100%;
+    background: rgb(244, 244, 246);
+    height: 44px;
+    left: 0;
+    top: 44px;
+    position: fixed;
+}
+.BF_first_section a {
+    display: table-cell;
+    width: 33.3%;
+    text-decoration: none;
+    text-align:center;
+    line-height: 44px;
+    color: black;}
+
+
+.BF_second_section {
+    margin-top: 44px;
+}
+
+.BF_second_section img{
+    width: 100%;
+
+}
+.BF_third_section {
+    text-align:center;
+    background:white;
+    padding: 4px ;
+}
+.BF_4th_section{
+    margin-top:10px;}
+img {
+    width: 100%;
+}
+.BF_5th_section{
+    padding: 10px 0;
+    margin-top: 5px;
+    background: white
+}
+
+h4 {
+    font-size: 14px;
+    font-weight: normal;
+    text-align: center;
+}
+
+p {
+    font-size: 12px;
+    color: gray;
+    margin-left: 18px;
+    line-height: 1.6em;
+}
